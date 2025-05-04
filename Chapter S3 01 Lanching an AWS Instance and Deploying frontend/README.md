@@ -1,11 +1,6 @@
 
 # DevTinder - AWS EC2 Frontend Deployment 🚀  
 
-## 📌 Code Demonstration Links  
-🔗 **Backend Repository:** [DevTinder Backend](https://github.com/akshadjaiswal/devTinder-backend)  
-🔗 **Frontend Repository:** [DevTinder Frontend](https://github.com/akshadjaiswal/devTinder-frontend)  
-
----
 
 ## 📌 Overview  
 The goal is to **deploy the DevTinder frontend on an AWS EC2 instance**, making it publicly accessible. This deployment involves setting up a cloud server, installing necessary dependencies, building the frontend, and configuring Nginx as a web server.  

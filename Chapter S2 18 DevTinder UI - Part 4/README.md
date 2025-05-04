@@ -1,10 +1,5 @@
 # DevTinder Frontend - UI (Part - 4)🚀  
 
-## 📌 Code Demonstration Links  
-🔗 **Backend Repository:** [DevTinder Backend](https://github.com/akshadjaiswal/devTinder-backend)  
-🔗 **Frontend Repository:** [DevTinder Frontend](https://github.com/akshadjaiswal/devTinder-frontend)  
-
----
 
 ## 📌 Overview  
 DevTinder is a **MERN stack** web application designed to help developers **connect and collaborate**. The latest update focuses on the **Connections Page** and **Request Review Functionality**, allowing users to view, accept, and reject connection requests.  

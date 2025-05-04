@@ -1,10 +1,5 @@
 # DevTinder - Mapping a Domain Name to Deployed App 🌐 (Half)
 
-## 📌 Code Demonstration Links  
-🔗 **Backend Repository:** [DevTinder Backend](https://github.com/akshadjaiswal/devTinder-backend)  
-🔗 **Frontend Repository:** [DevTinder Frontend](https://github.com/akshadjaiswal/devTinder-frontend)  
-
----
 
 ## 📌 Overview  
 This document outlines the process of mapping a **custom domain name** to the deployed DevTinder app using services like **GoDaddy** and **Cloudflare**. Connecting a domain improves professionalism and makes the app easily accessible.

@@ -1,8 +1,5 @@
 # Diving into APIs
 
-## Code Demonstration Link
-
-* [DevTinder Backend Repository](https://github.com/akshadjaiswal/devTinder-backend)
 
 This README serves as a reference for API concepts and operations encountered while developing the DevTinder app. It includes notes on data handling, database interactions, and key differences between JavaScript and JSON objects.
 

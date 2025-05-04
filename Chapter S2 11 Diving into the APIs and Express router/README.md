@@ -1,8 +1,6 @@
 # DevTinder Project - API Development and Express Router
 
-## Code Demonstration Link
 
-* [DevTinder Backend Repository](https://github.com/akshadjaiswal/devTinder-backend)
 
 ## Overview
 Today's learning focused on finalizing the DevTinder API endpoints and structuring the application using Express Router for better modularity and maintainability. The APIs were categorized into different routers based on their functionality.

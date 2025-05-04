@@ -1,10 +1,5 @@
 # DevTinder Frontend - UI (part 2) Development 🚀
 
-## 📌 Code Demonstration Links  
-🔗 **Backend Repository:** [DevTinder Backend](https://github.com/akshadjaiswal/devTinder-backend)  
-🔗 **Frontend Repository:** [DevTinder Frontend](https://github.com/akshadjaiswal/devTinder-frontend)  
-
----
 
 ## 📌 Overview  
 DevTinder is a **MERN stack** web application designed to help developers **connect and collaborate**, similar to Tinder but for the tech community.  

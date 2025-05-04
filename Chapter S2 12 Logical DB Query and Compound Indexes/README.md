@@ -1,8 +1,5 @@
 # DevTinder Project - Logical DB and Compound Indexes
 
-## Code Demonstration Link
-
-* [DevTinder Backend Repository](https://github.com/akshadjaiswal/devTinder-backend) Project
 
 ## Overview
 Today's learning covers advanced concepts in MongoDB and Mongoose, including creating a connection request schema with strict validations, building an API to handle connection requests, and using `.pre` middleware for additional checks.

@@ -1,8 +1,5 @@
 # DevTinder Project - Password Encryption and Authentication
 
-## Code Demonstration Link
-
-* [DevTinder Backend Repository](https://github.com/akshadjaiswal/devTinder-backend)
 
 ## Overview
 This document outlines the key learnings and best practices for encrypting passwords and managing authentication in the DevTinder app. The process involves validating user input, securely storing passwords, and verifying credentials during login.

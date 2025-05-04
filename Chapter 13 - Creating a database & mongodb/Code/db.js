@@ -2,7 +2,7 @@ const { MongoClient } = require("mongodb");
 const { ObjectId } = require("mongodb");
 
 //connection URL
-const url = "mongodb+srv://akshadsantoshjaiswal:rFw7NSxncTpSc7Bq@cluster0.yulixmn.mongodb.net/"
+const url = "mongodb+srv://chayan:admin123@cluster0.b9sjkut.mongodb.net/"
 const client = new MongoClient(url);
 
 const dbname = "NamsteNodejs"
@@ -14,10 +14,10 @@ async function main() {
     const collection = db.collection("User")
 
     const data = {
-        firstname: "Akshad",
-        lastname: "Jaiswal",
-        city: "Pune",
-        phoneNumber: "88526587",
+        firstname: "Chayan",
+        lastname: "Koley",
+        city: "Kolkata",
+        phoneNumber: "8336820452",
     }
 
 

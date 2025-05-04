@@ -1,8 +1,5 @@
 # Databse, Schema & Models | Mongoose
 
-## Code Demonstration Link
-
-* [DevTinder Backend Repository](https://github.com/akshadjaiswal/devTinder-backend)
 
 ## 1. Database Connection
 This guide demonstrates how to connect to MongoDB directly using a connection string URL without using a `.env` file. This setup is convenient for testing but is not secure for production as it exposes sensitive information.

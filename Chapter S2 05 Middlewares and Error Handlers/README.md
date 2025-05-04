@@ -1,9 +1,5 @@
 # DevTinder Project - Learning Notes
 
-## Code Demonstration Link
-
-* [DevTinder Backend Repository](https://github.com/akshadjaiswal/devTinder-backend)
-
 ## Middlewares and Error Handlers in Express
 
 ## Route Handlers in Express

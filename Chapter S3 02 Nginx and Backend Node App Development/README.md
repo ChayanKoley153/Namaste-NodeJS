@@ -1,11 +1,6 @@
 
 # DevTinder - AWS EC2 Backend Deployment 🚀  
 
-## 📌 Code Demonstration Links  
-🔗 **Backend Repository:** [DevTinder Backend](https://github.com/akshadjaiswal/devTinder-backend)  
-🔗 **Frontend Repository:** [DevTinder Frontend](https://github.com/akshadjaiswal/devTinder-frontend)  
-
----
 
 ## 📌 Overview  
 The goal is to **deploy the DevTinder backend on an AWS EC2 instance** and configure **Nginx as a reverse proxy**. This ensures that API requests from the frontend reach the backend seamlessly.  

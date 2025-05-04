@@ -1,9 +1,5 @@
 # DevTinder Project - API Development: Feed API and Pagination
 
-## Code Demonstration Link
-
-* [DevTinder Backend Repository](https://github.com/akshadjaiswal/devTinder-backend) Project
----
 
 ## Overview
 Today's focus is on enhancing the **Get /user/feed** API by implementing pagination. The API is designed to retrieve user profiles while filtering out specific users and limiting the number of results per request.

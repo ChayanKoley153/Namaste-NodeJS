@@ -1,8 +1,6 @@
 # DevTinder Project - Data Sanitization and Schema Validations in Mongoose
 
-## Code Demonstration Link
 
-* [DevTinder Backend Repository](https://github.com/akshadjaiswal/devTinder-backend)
 
 ## Overview
 In today's learning, I explored data sanitization and schema validation features in Mongoose. These features help enforce data integrity, improve data consistency, and add extra layers of validation to ensure that the data saved in MongoDB adheres to specific rules.
